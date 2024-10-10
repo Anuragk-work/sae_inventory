@@ -1,0 +1,5 @@
+<?
+class DocMessageManager extends EntityManager
+{
+}
+

@@ -1,0 +1,6 @@
+<?
+
+class DocumentApprovalLister extends NLister
+{
+}
+
