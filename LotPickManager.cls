@@ -1,0 +1,6 @@
+<?
+
+class LotPickManager extends HierarchicalEntityManager
+{
+}
+

@@ -1,0 +1,5 @@
+<?
+class KitsAllPickManager extends HierarchicalEntityManager
+{
+}
+
