@@ -1,0 +1,5 @@
+<?
+class SerialPickManager extends HierarchicalEntityManager
+{
+}
+

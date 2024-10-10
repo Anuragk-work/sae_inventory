@@ -1,0 +1,5 @@
+<?
+class upcPickManager extends HierarchicalEntityManager
+{
+}
+
