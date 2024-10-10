@@ -1,0 +1,4 @@
+<?
+class InvDocumentSubTotalsManager extends DocumentSubTotalsManager
+{
+}
